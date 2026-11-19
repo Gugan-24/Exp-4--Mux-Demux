@@ -15,9 +15,13 @@ Boolean Functions
 <img width="575" height="65" alt="image" src="https://github.com/user-attachments/assets/04c2d90c-0b6b-4b35-b603-d0e10e1e4f00" />
 
 ## Design / RTL Program
+<img width="1897" height="1017" alt="fun" src="https://github.com/user-attachments/assets/736c95d5-32f2-4530-bcca-31cb5a328396" />
 
 ```
 ## **Testbench Program
+<img width="1907" height="1042" alt="tb" src="https://github.com/user-attachments/assets/c0ec2a78-79f5-42ad-af6a-c8c139eaf7fb" />
+<img width="1915" height="107" alt="tb1" src="https://github.com/user-attachments/assets/7fe4bc58-4cd4-4612-93fa-7a3fc473a9c2" />
+
 
 
 
@@ -84,6 +88,7 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
+<img width="1852" height="997" alt="output" src="https://github.com/user-attachments/assets/b9fb7e45-190e-43f8-9460-a84f8ab872c4" />
 
 
 ## Viva-Voce Questions
